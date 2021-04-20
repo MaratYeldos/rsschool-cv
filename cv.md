@@ -31,7 +31,7 @@
 
 ### About my education:
   * University: International Information Technology University(2019-2023)
-  * Faculty: Software-engineering
+  * Faculty: Software-engineering.
  
 ### About my English 
   English language proficiency at the level of reading documentation and understanding speech.
